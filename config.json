@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpecrypt",
+        "uuid": 1687955,
+        "checksum": "ic1ts5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
